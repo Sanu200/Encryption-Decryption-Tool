@@ -1,7 +1,3 @@
-<a href="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/build-windows.yml"><img src="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/build-windows.yml/badge.svg"></a>
-<a href="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/build-macos.yml"><img src="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/build-macos.yml/badge.svg"></a>
-<a href="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/build-linux.yml"><img src="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/build-linux.yml/badge.svg"></a>
-<a href="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/codeql-analysis.yml"><img src="https://github.com/THEncrpterX/THEncrpterX/actions/workflows/codeql-analysis.yml/badge.svg"></a>
 
 <p align="center"><img align="center" src="/images/logo.svg" width="512" alt="THEncrpterX"></p> 
 
