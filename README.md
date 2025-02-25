@@ -90,8 +90,6 @@ For more information on how THEncrypterX handles cryptography, see <a href="Inte
 
 <strong>THEncrypterX operates under the assumption that the host machine it is running on is safe and trusted. If that is not the case, no piece of software will be secure, and you will have much bigger problems to worry about. As such, THEncrypterX is designed for the offline security of volumes and does not attempt to protect against side-channel analysis.</strong>
 
-# Donations
-When I was actively developing THEncrypterX, I accepted donations, but now that THEncrypterX is complete and production-ready, there's no need anymore. Instead, take your time and effort to share the love of THEncrypterX with others. Donations are nice, but being able to help others is a lot more valuable to me than a few spare dollars. Knowing that THEncrypterX is helping people secure their files is plenty enough for me.
 
 # FAQ
 **Does the "Delete files" feature shred files?**
