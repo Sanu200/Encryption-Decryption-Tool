@@ -2,10 +2,7 @@ package main
 
 /*
 
-Picocrypt v1.47
-Copyright (c) Evan Su
-Released under a GNU GPL v3 License
-https://github.com/Picocrypt/Picocrypt
+THEncrypterX
 
 ~ In cryptography we trust ~
 
